@@ -4,4 +4,4 @@
 
 ## The instructions for installation is exactly the same as that which is provided in the 0x00. C - Hello, World project.
 #### You only need to run ./phone-install.sh instead of sudo ./install.sh
-#### Also, create the betty file but copy into it the content of phone-betty.sh instaed of the one provided within the project page.
+#### Also, create the betty file but copy the content of phone-betty.sh into it instaed of the one provided within the project page.
