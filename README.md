@@ -1,9 +1,9 @@
 # Betty Wrapper
 
 
-### Installation
+## Installation
 
-#### The instructions for installation is exactly the same as that which is provided in the 0x00. C - Hello, World project.
+The instructions for installation is exactly the same as that which is provided in the 0x00. C - Hello, World project.
 
 #### Run the script `./phone-install.sh` in place of `sudo ./install.sh` to install the Betty linter on your on your phone (running the termux mobile app).
 
