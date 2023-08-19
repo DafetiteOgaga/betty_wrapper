@@ -6,7 +6,7 @@
 
 The instructions for installation is exactly the same as that which is provided in the 0x00. C - Hello, World project.
 
-Run the script `./phone-install.sh` in place of `sudo ./install.sh` to install the Betty linter on your on your phone (running the termux mobile app).
+Run the script `./phone-install.sh` in place of `sudo ./install.sh` to install the Betty linter on your phone (running the termux mobile app).
 
 Also copy the content of `phone-betty.sh` into the `betty` file instead of the code provided by the project.
 
