@@ -1,7 +1,7 @@
 # Betty Wrapper
 
 
-## Installation
+### Installation
 
 The instructions for installation is exactly the same as that which is provided in the 0x00. C - Hello, World project.
 
@@ -10,27 +10,27 @@ Run the script `./phone-install.sh` in place of `sudo ./install.sh` to install t
 Also copy the content of `phone-betty.sh` into the `betty` file instead of the code provided by the project.
 
 
-## Usage
+### Usage
 
 Refer to the project page on the intranet for usage instructions.
 
 
 
 
-## Changelog
+# Changelog
 This file contains the notable changes made to the Custom Commands project.
 
 
 Version 1.0.0 (19-08-2023)
-#### New
+## New
 	- Added installation setup files
 
 
-#### Changes 
+## Changes 
+	-
 
 
-
-#### Fixes
+## Fixes
     - Added execute permission for all user to the files.
 
 
