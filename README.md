@@ -16,20 +16,20 @@ Refer to the project page on the intranet for usage instructions.
 
 
 
-# Changelog
+## Changelog
 This file contains the notable changes made to the Custom Commands project.
 
 
 Version 1.0.0 (19-08-2023)
-## New
+### New
 	- Added installation setup files
 
 
-## Changes 
+### Changes 
 
 
 
-## Fixes
+### Fixes
     - Added execute permission for all user to the files.
 
 
