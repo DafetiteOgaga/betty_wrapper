@@ -10,7 +10,7 @@ The instructions for installation is exactly the same as that which is provided 
 #### Also copy the content of `phone-betty.sh` into the `betty` file instead of the code provided by the project.
 
 
-### Usage
+## Usage
 
 Refer to the project page on the intranet for usage instructions.
 
@@ -22,7 +22,7 @@ This file contains the notable changes made to the Custom Commands project.
 
 
 Version 1.0.0 (19-08-2023)
-## New
+#### New
 	- Added installation setup files
 
 
