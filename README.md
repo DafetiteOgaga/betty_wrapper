@@ -37,4 +37,4 @@ Version 1.0.0 (19-08-2023)
 
 ##### This wrapper aims to solve the challenges faced by some Alx students who wishes to code on their phones. Betty Linter can now be installed on mobile devices running the termux app.
 
-###### We Rise by Lifting.
+###### We Rise by Lifting Others.
