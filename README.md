@@ -10,9 +10,10 @@ The instructions for installation is exactly the same as that which is provided 
 #### Also copy the content of `phone-betty.sh` into the `betty` file instead of the code provided by the project.
 
 
-### Usage
+#### Usage
 
 Refer to the project page on the intranet for usage instructions.
+
 
 
 
