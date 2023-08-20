@@ -19,10 +19,10 @@ Refer to the project page on the intranet for usage instructions.
 
 
 # Changelog
-This file contains the notable changes made to the Custom Commands project.
+This file contains the notable changes made to the Betty_Wrapper repo.
 
 
-Version 1.0.0 (20-08-2023)
+Version 1.0.0 (20-08-2023),
 Version 1.0.0 (19-08-2023)
 ## New
 	- Added sample screenshot of what to expect after a successful installation of the betty linter
