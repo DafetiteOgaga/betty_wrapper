@@ -2,7 +2,7 @@
 
 BETTY_STYLE="betty-style"
 BETTY_DOC="betty-doc"
-BETTY_WRAPPER="phone_betty"
+BETTY_WRAPPER="betty"
 
 APP_PATH="$PREFIX/opt/betty"
 BIN_PATH="$PREFIX/bin"
