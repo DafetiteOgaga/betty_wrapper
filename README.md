@@ -10,7 +10,7 @@ Next, copy the files `phone-install.sh` and `phone-betty.sh` into the Betty repo
 
 Lastly, restart your terminal or start a new session.
 
-Note: If you encounter the `env: 'perl'` error. Simply `pkg install perl`
+Note: If you encounter the `env: 'perl'` error. Simply `pkg install perl`.
 
 
 ### Usage
