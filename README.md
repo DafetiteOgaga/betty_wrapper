@@ -4,11 +4,13 @@
 
 ### Installation
 
-The instructions for installation is exactly the same as that which is provided in the 0x00. C - Hello, World project.
+Simply clone the Betty repo using the link provided in the 0x00. C - Hello, World project or just click here [Betty](https://github.com/alx-tools/Betty)
 
-Run the script `./phone-install.sh` in place of `sudo ./install.sh` to install the Betty linter on your phone (running the termux mobile app).
+Next, copy the files `phone-install.sh` and `phone-betty.sh` into the Betty repo and run: `./phone-install.sh`while you are inside the Betty repo. This will install the betty linter on your phone (running the termux mobile app).
 
-Also copy the content of `phone-betty.sh` into the `betty` file instead of the code provided by the project.
+Lastly, restart your terminal or start a new session.
+
+Note: If you encounter the `env: 'perl'` error. Simply `pkg install perl`
 
 
 ### Usage
@@ -16,12 +18,11 @@ Also copy the content of `phone-betty.sh` into the `betty` file instead of the c
 Refer to the project page on the intranet for usage instructions.
 
 
-
-
 # Changelog
 This file contains the notable changes made to the Custom Commands project.
 
 
+Version 1.0.0 (20-08-2023)
 Version 1.0.0 (19-08-2023)
 ## New
 	- Added sample screenshot of what to expect after a successful installation of the betty linter
@@ -31,8 +32,9 @@ Version 1.0.0 (19-08-2023)
 ## Changes 
 	-
 
-
 ## Fixes
+	- Fixed issues of copying the phone-betty.sh code to just running the installation file
+	- Fixed other installation related errors
     - Added execute permission for all user to the files.
 
 
