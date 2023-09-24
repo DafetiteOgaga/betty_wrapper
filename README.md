@@ -6,7 +6,7 @@
 
 Simply clone the Betty repo using the link provided in the 0x00. C - Hello, World project or click here [Betty](https://github.com/alx-tools/Betty).
 
-Next, copy the files `phone-install.sh` and `phone-betty.sh` into the Betty repo and run: `./phone-install.sh`while you are inside the Betty repo. This will install the betty linter on your phone (running the termux mobile app).
+Next, clone the repo and copy the files `phone-install.sh` and `phone-betty.sh` into the Betty repo and run: `./phone-install.sh`while you are inside the Betty repo. This will install the betty linter on your phone (running the termux mobile app).
 
 Lastly, restart your terminal or start a new session.
 
