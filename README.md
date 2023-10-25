@@ -17,7 +17,7 @@ Note: If you encounter the `env: 'perl'` error. Simply `pkg install perl`.
 
 ### Usage
 
-Refer to the project page on the intranet for usage instructions.
+Refer to the project page on the intranet for usage/instructions on the betty linter.
 
 
 # Changelog
