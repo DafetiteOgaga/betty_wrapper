@@ -9,10 +9,12 @@ Simply clone the Betty repo using the link provided in the 0x00. C - Hello, Worl
 git clone https://github.com/alx-tools/Betty.git
 ```
 
+
 Secondly, clone this repo. 
 ```git clone https://github.com/DafetiteOgaga/betty_wrapper.git
 ```
 Then, copy the files `phone-install.sh` and `phone-betty.sh` into the Betty repo
+
 
 Next, run:
 ```
@@ -20,7 +22,9 @@ Next, run:
 ```
 While you are inside the Betty repo. This will install the betty linter on your phone (running the termux mobile app).
 
+
 Lastly, restart your terminal or start a new session.
+
 
 Note: If you encounter the `env: 'perl'` error. Simply
 ```
