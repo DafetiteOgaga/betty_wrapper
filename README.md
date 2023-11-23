@@ -4,15 +4,28 @@
 
 ### Installation
 
-Simply clone the Betty repo using the link provided in the 0x00. C - Hello, World project or click here [Betty](https://github.com/alx-tools/Betty).
+Simply clone the Betty repo using the link provided in the 0x00. C - Hello, World project or click here [Betty](https://github.com/alx-tools/Betty) or
+```
+git clone https://github.com/alx-tools/Betty.git
+```
 
-Secondly, clone this repo and copy the files `phone-install.sh` and `phone-betty.sh` into the Betty repo
+Secondly, clone this repo. 
+```git clone https://github.com/DafetiteOgaga/betty_wrapper.git
+```
+Then, copy the files `phone-install.sh` and `phone-betty.sh` into the Betty repo
 
-Next, run: `./phone-install.sh`while you are inside the Betty repo. This will install the betty linter on your phone (running the termux mobile app).
+Next, run:
+```
+./phone-install.sh
+```
+While you are inside the Betty repo. This will install the betty linter on your phone (running the termux mobile app).
 
 Lastly, restart your terminal or start a new session.
 
-Note: If you encounter the `env: 'perl'` error. Simply `pkg install perl`.
+Note: If you encounter the `env: 'perl'` error. Simply
+```
+pkg install perl
+```
 
 
 ### Usage
@@ -38,6 +51,5 @@ This file contains the notable changes made to the Betty_Wrapper repo.
 
 
 
-##### This wrapper aims to solve the challenges faced by some Alx students who wishes to code on their phones. Betty Linter can now be installed on mobile devices running the termux app.
 
 ###### We Rise by Lifting Others.
