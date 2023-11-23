@@ -4,9 +4,8 @@
 
 ### Installation
 
-You can install the Betty linter via [Custom Commands](https://github.com/DafetiteOgaga/custom_commands)
+You can install the Betty linter via my [Custom Commands](https://github.com/DafetiteOgaga/custom_commands)
 
-<br>
 OR
 <br>
 
