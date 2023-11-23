@@ -19,11 +19,11 @@
    ```
    phone-install.sh
    ```
-and
+   and
    ```
    phone-betty.sh
    ```
-into the Betty repo
+   into the Betty repo
 
 
 4. While you are inside the Betty repo. This will install the betty linter on your phone (running the termux mobile app), Run:
