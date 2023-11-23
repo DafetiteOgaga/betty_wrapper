@@ -10,18 +10,19 @@
    ```
 
 
-Secondly, clone this repo. 
-```
-git clone https://github.com/DafetiteOgaga/betty_wrapper.git
-```
-Then, copy the files
-```
-phone-install.sh
-```
+2. Clone this repo. 
+   ```
+   git clone https://github.com/DafetiteOgaga/betty_wrapper.git
+   ```
+
+3. Copy the files
+   ```
+   phone-install.sh
+   ```
 and
-```
-phone-betty.sh
-```
+	```
+	phone-betty.sh
+	```
 into the Betty repo
 
 
