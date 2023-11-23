@@ -4,7 +4,13 @@
 
 ### Installation
 
-1. Clone the Betty repo using the link provided in the 0x00. C - Hello, World project or click here [Betty](https://github.com/alx-tools/Betty) or
+You can install the Betty linter via [Custom Commands](https://github.com/DafetiteOgaga/custom_commands)
+
+<br>
+OR
+<br>
+
+1. Clone the Betty repo using the link provided in the 0x00. C - Hello, World project or click [here](https://github.com/alx-tools/Betty) or
    ```
    git clone https://github.com/alx-tools/Betty.git
    ```
