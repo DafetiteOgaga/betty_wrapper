@@ -31,7 +31,7 @@
    ./phone-install.sh
    ```
 
-Lastly, restart your terminal or start a new session.
+5. Lastly, restart your terminal or start a new session.
 
 <br><br>
 
