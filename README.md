@@ -33,6 +33,9 @@
 
 Lastly, restart your terminal or start a new session.
 
+<hr>
+
+<br>
 
 **Note: If you encounter the `env: 'perl'` error. Simply**
    ```
