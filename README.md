@@ -20,26 +20,24 @@
    phone-install.sh
    ```
 and
-	```
-	phone-betty.sh
-	```
+   ```
+   phone-betty.sh
+   ```
 into the Betty repo
 
 
-Next, run:
-```
-./phone-install.sh
-```
-While you are inside the Betty repo. This will install the betty linter on your phone (running the termux mobile app).
-
+4. While you are inside the Betty repo. This will install the betty linter on your phone (running the termux mobile app), Run:
+   ```
+   ./phone-install.sh
+   ```
 
 Lastly, restart your terminal or start a new session.
 
 
-Note: If you encounter the `env: 'perl'` error. Simply
-```
-pkg install perl
-```
+**Note: If you encounter the `env: 'perl'` error. Simply**
+   ```
+   pkg install perl
+   ```
 
 
 ### Usage
