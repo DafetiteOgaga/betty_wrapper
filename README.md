@@ -33,7 +33,7 @@
 
 Lastly, restart your terminal or start a new session.
 
-<br>
+<br><br>
 
 **Note: If you encounter the `env: 'perl'` error. Simply**
    ```
