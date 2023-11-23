@@ -5,10 +5,10 @@
 ### Installation
 
 Simply clone the Betty repo using the link provided in the 0x00. C - Hello, World project or click here [Betty](https://github.com/alx-tools/Betty) or
-```
-git clone https://github.com/alx-tools/Betty.git
-```
-
+	```
+	git clone https://github.com/alx-tools/Betty.git
+	```
+<hr>
 
 Secondly, clone this repo. 
 ```
