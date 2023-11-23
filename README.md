@@ -11,9 +11,18 @@ git clone https://github.com/alx-tools/Betty.git
 
 
 Secondly, clone this repo. 
-```git clone https://github.com/DafetiteOgaga/betty_wrapper.git
 ```
-Then, copy the files `phone-install.sh` and `phone-betty.sh` into the Betty repo
+git clone https://github.com/DafetiteOgaga/betty_wrapper.git
+```
+Then, copy the files
+```
+phone-install.sh
+```
+and
+```
+phone-betty.sh
+```
+into the Betty repo
 
 
 Next, run:
