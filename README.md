@@ -40,7 +40,7 @@ OR
 
 <br><br>
 
-**Note: If you encounter the `env: 'perl'` error. Simply**
+**Note: If you encounter the `env: 'perl'` error. Simply run:**
    ```
    pkg install perl
    ```
