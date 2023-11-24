@@ -10,13 +10,13 @@ OR
 <br>
 
 1. Clone the Betty repo using the link provided in the 0x00. C - Hello, World project or click [here](https://github.com/alx-tools/Betty) or
-   ```
+   ```bash
    git clone https://github.com/alx-tools/Betty.git
    ```
 
 
 2. Clone this repo. 
-   ```
+   ```bash
    git clone https://github.com/DafetiteOgaga/betty_wrapper.git
    ```
 
@@ -32,7 +32,7 @@ OR
 
 
 4. While you are inside the Betty repo. This will install the betty linter on your phone (running the termux mobile app), Run:
-   ```
+   ```bash
    ./phone-install.sh
    ```
 
@@ -41,7 +41,7 @@ OR
 <br><br>
 
 **Note: If you encounter the `env: 'perl'` error. Simply run:**
-   ```
+   ```bash
    pkg install perl
    ```
 
