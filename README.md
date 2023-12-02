@@ -55,17 +55,17 @@ Refer to the project page on the intranet for usage/instructions on the betty li
 This file contains the notable changes made to the Betty_Wrapper repo.
 
 ## New
-	- Added sample screenshot of what to expect after a successful installation of the betty linter
+   - Added sample screenshot of what to expect after a successful installation of the betty linter
 	- Added installation setup files
 
 
 ## Changes 
-	-
+   - 
 
 ## Fixes
-	- Fixed issues of copying the phone-betty.sh code to just running the installation file
+   - Fixed issues of copying the phone-betty.sh code to just running the installation file
 	- Fixed other installation related errors
-    - Added execute permission for all user to the files.
+   - Added execute permission for all user to the files.
 
 
 
